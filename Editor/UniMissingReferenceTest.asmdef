@@ -1,0 +1,18 @@
+{
+    "name": "UniMissingReferenceTest",
+    "references": [
+        "GUID:62d8b1607123c214985d200d4df89222",
+        "GUID:e21aa93be0af05842aa49df8f3cfbfe9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
